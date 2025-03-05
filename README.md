@@ -18,3 +18,6 @@ In this project you are going to code a program tha controls a registry of stude
 ### use a hashmap to store each student:
 
 ## Any questions can be directed to siphakwe@gmail.com
+
+
+#### Hints: "Scope" ~ yes that's the hint
