@@ -1,11 +1,11 @@
-# Student-s-Registry
+# Students-Registry
 
 In this project you are going to code a program tha controls a registry of students.
 
 ## your program should be able to:
 - Add students to the registry
-- Display the students of the registry
-- Remove students for the registry
+- Display the students to the registry
+- Remove students from the registry
 - Change information about the students
 - Exit
 
